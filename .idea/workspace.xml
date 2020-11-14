@@ -20,36 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f04aedbd-8e0a-40f0-9bfb-8bfa1a31e6e7" name="Default Changelist" comment="Added resources for part 4 and external data sources">
+      <change afterPath="$PROJECT_DIR$/acerezoc/my_city.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Programming_with_python_2021.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Programming_with_python_2021.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Juan_Ojeda/conditionals.py" beforeDir="false" afterPath="$PROJECT_DIR$/Submissions/Juan_Ojeda/conditionals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Juan_Ojeda/my_city.py" beforeDir="false" afterPath="$PROJECT_DIR$/Submissions/Juan_Ojeda/my_city.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laura_Guimarães/conditionals.py" beforeDir="false" afterPath="$PROJECT_DIR$/Submissions/Laura_Guimarães/conditionals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laura_Guimarães/my_city.py" beforeDir="false" afterPath="$PROJECT_DIR$/Submissions/Laura_Guimarães/my_city.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Michael DiCarlo City skrrpt/City Skrp .py" beforeDir="false" afterPath="$PROJECT_DIR$/Submissions/Michael DiCarlo City skrrpt/City Skrp .py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Michael DiCarlo City skrrpt/Mine skrip.py" beforeDir="false" afterPath="$PROJECT_DIR$/Submissions/Michael DiCarlo City skrrpt/Mine skrip.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Michael DiCarlo City skrrpt/conditions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Submissions/Michael DiCarlo City skrrpt/conditions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/My files backup/Leyla Saadi/Conditions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My files backup/Leyla Saadi/Leyla's robotic arm.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My files backup/Leyla Saadi/Leyla's test script.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/My files backup/Leyla Saadi/My_City_List_LS.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part3-ExternalSources/a_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part3-ExternalSources/a_functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part4-DataInteraction/d_read_image.py" beforeDir="false" afterPath="$PROJECT_DIR$/Part4-DataInteraction/d_read_image.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Riccardo_Palazzolo/Consitional_exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/Submissions/Riccardo_Palazzolo/Consitional_exercise.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Riccardo_Palazzolo/conditions_RPH.py" beforeDir="false" afterPath="$PROJECT_DIR$/Submissions/Riccardo_Palazzolo/conditions_RPH.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Riccardo_Palazzolo/m_city.py" beforeDir="false" afterPath="$PROJECT_DIR$/Submissions/Riccardo_Palazzolo/m_city.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sridhar/Conditions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Submissions/Sridhar/Conditions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sridhar/Robotic_Arm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Submissions/Sridhar/Robotic_Arm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sridhar/my_city.py" beforeDir="false" afterPath="$PROJECT_DIR$/Submissions/Sridhar/my_city.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stefania-Maria_Kousoula/myCity.py" beforeDir="false" afterPath="$PROJECT_DIR$/Submissions/Stefania_Maria_Kousoula/myCity.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stefania-Maria_Kousoula/roboticArm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Submissions/Stefania_Maria_Kousoula/roboticArm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stefania_Maria_Kousoula/myCity.py" beforeDir="false" afterPath="$PROJECT_DIR$/Submissions/Stefania_Maria_Kousoula/myCity_a.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stefania_Maria_Kousoula/roboticArm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Submissions/Stefania_Maria_Kousoula/roboticArm_a.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stephania Kousoula/my_city.py" beforeDir="false" afterPath="$PROJECT_DIR$/Submissions/Stephania_Kousoula/my_city.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stephania Kousoula/robotic_arm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Submissions/Stephania_Kousoula/robotic_arm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stephania_Kousoula/myCity.py" beforeDir="false" afterPath="$PROJECT_DIR$/Submissions/Stephania_Kousoula/myCity.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stephania_Kousoula/roboticArm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Submissions/Stephania_Kousoula/roboticArm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tugdual_Sarazin/my_city.py" beforeDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,8 +49,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea/workspace.xml" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/.idea/workspace.xml" />
   </component>
   <component name="RecentsManager">
@@ -86,7 +62,19 @@
       <recent name="$PROJECT_DIR$/Stephania_Kousoula" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.a_read_csv">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.e_operators_arithmetic">
     <configuration name="a_functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programming_with_python_2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="c_dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="e_operators_arithmetic" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming_with_python_2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,11 +146,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part2-DataTypes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part1-Basics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part2-DataTypes/c_dictionaries.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part1-Basics/e_operators_arithmetic.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="d_tuples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="my_city" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programming_with_python_2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -179,11 +167,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Part2-DataTypes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/acerezoc" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Part2-DataTypes/d_tuples.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/acerezoc/my_city.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.e_operators_arithmetic" />
+        <item itemvalue="Python.my_city" />
         <item itemvalue="Python.a_read_csv" />
         <item itemvalue="Python.c_calling_external_scripts" />
         <item itemvalue="Python.a_functions" />
-        <item itemvalue="Python.d_tuples" />
-        <item itemvalue="Python.c_dictionaries" />
       </list>
     </recent_temporary>
   </component>
@@ -291,12 +279,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Default Settings" />
@@ -406,6 +395,11 @@
           <url>file://$PROJECT_DIR$/Part4-DataInteraction/a_read_csv.py</url>
           <line>59</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/acerezoc/my_city.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
